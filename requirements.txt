@@ -1,0 +1,22 @@
+# without versions
+jupyter
+notebook
+import-ipynb
+app_store_scraper
+itunes-app-scraper-dmi
+nltk
+gensim
+tzlocal
+pyLDAvis
+requests
+pandas
+spacy
+spacy-langdetect
+scikit-learn
+rank_bm25
+rouge
+
+
+# with versions
+seaborn~=0.12.2
+Pygments~=2.14.0
