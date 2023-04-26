@@ -1,0 +1,167 @@
+params,input,prompt,generator choices,labels
+"{'prefix': '\nGenerate minimum of five labels for Non Functional Requirements with very concise descriptions that summarize the following mental health app review.\nDesired format: {label}: {description}\n', 'top_p': 0.1, 'temperature': 0.1, 'max_tokens': 150, 'presence_penalty': 0.1, 'frequency_penalty': 0.1}","had to go back & forth with customer service to get the same price two of my friends were paying... even tho i'm unemployed bc of covid & both of my friends have good jobs... first counselor i was paired with was a christian counselor (i'm jewish)... 2nd counselor was alright for a a week but then after a few weeks i realized all she ever did was ask me how i was doing every 2 days... the conversation never really went farther than that... the one time i opened up to that therapist she told me i had a choice in a particular situation where i really didn't, then she went onto brag about how she was homeless at 16 with 3 dependents... lol this counselor, according to betterhelp, supposedly had 25 years of experience & was competing with me about how bad our experiences were... so after that i switched a bunch of times bc i kept getting paired men or ppl with only a few years of experience... i know i'm a tough case... i know i need someone who can handle a lot... anyway, after the 5th or 6th switch i got frustrated over multiple misunderstandings with customer service about pricing so i asked for my money back & without any response or confirmation my subscription was cancelled 2 days later... after i had just turned in my first therapy assignment... and then i was told i wouldn't be able to get the same price i was paying before if i resigned up... so i responded by reminding them that they were in the business of helping ppl who are hurting & that their system was infuriating for someone who's just trying to get help... so then they changed their tune real quick & offered me the price i wanted but i told them i had already signed up with talkspace & immediately my experience was much better with zero frustrations!","
+Generate minimum of five labels for Non Functional Requirements with very concise descriptions that summarize the following mental health app review.
+Desired format: {label}: {description}
+Review: """"""
+had to go back & forth with customer service to get the same price two of my friends were paying... even tho i'm unemployed bc of covid & both of my friends have good jobs... first counselor i was paired with was a christian counselor (i'm jewish)... 2nd counselor was alright for a a week but then after a few weeks i realized all she ever did was ask me how i was doing every 2 days... the conversation never really went farther than that... the one time i opened up to that therapist she told me i had a choice in a particular situation where i really didn't, then she went onto brag about how she was homeless at 16 with 3 dependents... lol this counselor, according to betterhelp, supposedly had 25 years of experience & was competing with me about how bad our experiences were... so after that i switched a bunch of times bc i kept getting paired men or ppl with only a few years of experience... i know i'm a tough case... i know i need someone who can handle a lot... anyway, after the 5th or 6th switch i got frustrated over multiple misunderstandings with customer service about pricing so i asked for my money back & without any response or confirmation my subscription was cancelled 2 days later... after i had just turned in my first therapy assignment... and then i was told i wouldn't be able to get the same price i was paying before if i resigned up... so i responded by reminding them that they were in the business of helping ppl who are hurting & that their system was infuriating for someone who's just trying to get help... so then they changed their tune real quick & offered me the price i wanted but i told them i had already signed up with talkspace & immediately my experience was much better with zero frustrations!
+""""""""","[<OpenAIObject at 0x7fc669c19810> JSON: {
+  ""finish_reason"": ""stop"",
+  ""index"": 0,
+  ""logprobs"": null,
+  ""text"": ""\nUnfair Pricing: Unfair pricing practices for unemployed customers compared to employed customers.\nCustomer Service: Poor customer service with multiple misunderstandings.\nMismatched Counselors: Mismatched counselors with different religious backgrounds and varying levels of experience.\nInappropriate Counseling: Inappropriate counseling with counselors bragging about their own experiences.\nCancellation: Cancellation of subscription without confirmation or response.""
+}]","['Unfair Pricing: Unfair pricing practices for unemployed customers compared to employed customers.', 'Customer Service: Poor customer service with multiple misunderstandings.', 'Mismatched Counselors: Mismatched counselors with different religious backgrounds and varying levels of experience.', 'Inappropriate Counseling: Inappropriate counseling with counselors bragging about their own experiences.', 'Cancellation: Cancellation of subscription without confirmation or response.']"
+"{'prefix': '\nGenerate minimum of five labels for Non Functional Requirements with very concise descriptions that summarize the following mental health app review.\nDesired format: {label}: {description}\n', 'top_p': 0.1, 'temperature': 0.1, 'max_tokens': 150, 'presence_penalty': 0.1, 'frequency_penalty': 0.1}",just downloaded rootd today & i think itz such a cute lil app & it helped meh feel calm itz helping my anxiety i highly recommend it to others who live alone try it gives yuh nice  info of anxiety so yuh can really understand what it really is & i learned dat it's no big deal & dat there's nothing to b afraid of but only a natural sensation dat comes & goes but dat yuh have to b brave because yuh r in control of it not it of yuh & since before i did have like a phobia of elevators but now slowly gonna b killing this fear thx 4 reminding me dat i'm in control makes me feel so much better & dat i gotta b brave thx  god bless yuh rootd company & thx 4 looking out 4 us out here.,"
+Generate minimum of five labels for Non Functional Requirements with very concise descriptions that summarize the following mental health app review.
+Desired format: {label}: {description}
+Review: """"""
+just downloaded rootd today & i think itz such a cute lil app & it helped meh feel calm itz helping my anxiety i highly recommend it to others who live alone try it gives yuh nice  info of anxiety so yuh can really understand what it really is & i learned dat it's no big deal & dat there's nothing to b afraid of but only a natural sensation dat comes & goes but dat yuh have to b brave because yuh r in control of it not it of yuh & since before i did have like a phobia of elevators but now slowly gonna b killing this fear thx 4 reminding me dat i'm in control makes me feel so much better & dat i gotta b brave thx  god bless yuh rootd company & thx 4 looking out 4 us out here.
+""""""""","[<OpenAIObject at 0x7fc669c19040> JSON: {
+  ""finish_reason"": ""stop"",
+  ""index"": 0,
+  ""logprobs"": null,
+  ""text"": ""\nUsability:  Description of how user-friendly the app is.\nAccessibility: Description of how easy it is to access the app.\nReliability: Description of how dependable the app is.\nSecurity: Description of how secure the app is.\nSupport: Description of how well the app is supported.""
+}]","['Usability:  Description of how user-friendly the app is.', 'Accessibility: Description of how easy it is to access the app.', 'Reliability: Description of how dependable the app is.', 'Security: Description of how secure the app is.', 'Support: Description of how well the app is supported.']"
+"{'prefix': '\nGenerate minimum of five labels for Non Functional Requirements with very concise descriptions that summarize the following mental health app review.\nDesired format: {label}: {description}\n', 'top_p': 0.1, 'temperature': 0.1, 'max_tokens': 150, 'presence_penalty': 0.1, 'frequency_penalty': 0.1}","i accidentally downloaded it(via my niece) and now i got an update saying i am now a proud owner of the yearly subscription... this app does not make you calm i am highly irritated that they use marketing to little kids to get their sales.. she claimed she accidentally clicked and installed the app while watching ryan, she's only 3 going on 4 so i do not entirely blame her(although i have strictly told her not to download things from the ads she sees for these reasons) but i do understand the terms and services of apple and how they don't let you make returns on stuff like this, it's highly irritating and ironic that an app called calm would make me so dang agitated... please do not have a mindset of a 3 year old when downloading this or you'll pay the price of $75 as i have... 
+
+merry christmas/ happy holidays :)) 
+
+(i've copied and pasted into my notes incase this review is removed for any reason on distributers or apple's side)","
+Generate minimum of five labels for Non Functional Requirements with very concise descriptions that summarize the following mental health app review.
+Desired format: {label}: {description}
+Review: """"""
+i accidentally downloaded it(via my niece) and now i got an update saying i am now a proud owner of the yearly subscription... this app does not make you calm i am highly irritated that they use marketing to little kids to get their sales.. she claimed she accidentally clicked and installed the app while watching ryan, she's only 3 going on 4 so i do not entirely blame her(although i have strictly told her not to download things from the ads she sees for these reasons) but i do understand the terms and services of apple and how they don't let you make returns on stuff like this, it's highly irritating and ironic that an app called calm would make me so dang agitated... please do not have a mindset of a 3 year old when downloading this or you'll pay the price of $75 as i have... 
+
+merry christmas/ happy holidays :)) 
+
+(i've copied and pasted into my notes incase this review is removed for any reason on distributers or apple's side)
+""""""""","[<OpenAIObject at 0x7fc669c14bd0> JSON: {
+  ""finish_reason"": ""stop"",
+  ""index"": 0,
+  ""logprobs"": null,
+  ""text"": ""\n\nAge Restriction: Ensure the app is not marketed to children under a certain age.\nData Protection: Ensure user data is securely stored and protected.\nRefund Policy: Provide a clear refund policy for accidental purchases.\nMarketing Strategy: Ensure marketing strategies are ethical and appropriate.\nUser Experience: Ensure the user experience is positive and calming.\nContent Quality: Ensure content is of high quality and appropriate.""
+}]","['Age Restriction: Ensure the app is not marketed to children under a certain age.', 'Data Protection: Ensure user data is securely stored and protected.', 'Refund Policy: Provide a clear refund policy for accidental purchases.', 'Marketing Strategy: Ensure marketing strategies are ethical and appropriate.', 'User Experience: Ensure the user experience is positive and calming.', 'Content Quality: Ensure content is of high quality and appropriate.']"
+"{'prefix': '\nGenerate minimum of five labels for Non Functional Requirements with very concise descriptions that summarize the following mental health app review.\nDesired format: {label}: {description}\n', 'top_p': 0.1, 'temperature': 0.1, 'max_tokens': 150, 'presence_penalty': 0.1, 'frequency_penalty': 0.1}","this app is for anxiety and to help people who have trouble falling asleep and i can't believe that an app that is supposed to help with things like that that people can't control makes you pay $70 a year you might think that these people would be generous and let you at least have a few things unlocked but no literally every single thing is locked and you can't use it unless you have the stupid extremely expensive subscription again this is especially insane because this is an app for people who have trouble falling asleep or anxiety and you make them pay for something they can't control i feel like this app should be free or at least make it a $10 app because this is insane how much money you want people to pay so they can have better control on something that's really hard for them to handle what you're doing is greedy, selfish, and rude i honestly don't know why there are so many good reviews about this because you literally cannot use anything without the expensive subscription other people might have enough money to pay for something like this but i definitely don't have enough money to pay for something this expensive","
+Generate minimum of five labels for Non Functional Requirements with very concise descriptions that summarize the following mental health app review.
+Desired format: {label}: {description}
+Review: """"""
+this app is for anxiety and to help people who have trouble falling asleep and i can't believe that an app that is supposed to help with things like that that people can't control makes you pay $70 a year you might think that these people would be generous and let you at least have a few things unlocked but no literally every single thing is locked and you can't use it unless you have the stupid extremely expensive subscription again this is especially insane because this is an app for people who have trouble falling asleep or anxiety and you make them pay for something they can't control i feel like this app should be free or at least make it a $10 app because this is insane how much money you want people to pay so they can have better control on something that's really hard for them to handle what you're doing is greedy, selfish, and rude i honestly don't know why there are so many good reviews about this because you literally cannot use anything without the expensive subscription other people might have enough money to pay for something like this but i definitely don't have enough money to pay for something this expensive
+""""""""","[<OpenAIObject at 0x7fc669c198b0> JSON: {
+  ""finish_reason"": ""stop"",
+  ""index"": 0,
+  ""logprobs"": null,
+  ""text"": ""\n\nUnfair Pricing: Charging $70/year for an app to help with anxiety and sleep issues.\nGreed: App creators are taking advantage of people with mental health issues by charging an exorbitant fee.\nLack of Free Features: No free features available, all features are locked behind a paywall.\nExploitation: App creators are exploiting people with mental health issues by charging an expensive fee.\nMisleading Reviews: Many good reviews despite the lack of free features and expensive subscription.""
+}]","['Unfair Pricing: Charging $70/year for an app to help with anxiety and sleep issues.', 'Greed: App creators are taking advantage of people with mental health issues by charging an exorbitant fee.', 'Lack of Free Features: No free features available, all features are locked behind a paywall.', 'Exploitation: App creators are exploiting people with mental health issues by charging an expensive fee.', 'Misleading Reviews: Many good reviews despite the lack of free features and expensive subscription.']"
+"{'prefix': '\nGenerate minimum of five labels for Non Functional Requirements with very concise descriptions that summarize the following mental health app review.\nDesired format: {label}: {description}\n', 'top_p': 0.1, 'temperature': 0.1, 'max_tokens': 150, 'presence_penalty': 0.1, 'frequency_penalty': 0.1}","i've been using betterhelp for maybe six months now i have a student discount but even with the student discount it is pricey but i believe it is worth it you can switch your therapist if you don't like them which i do like a lot you can video chat text or phone call your therapist and share journal entries which i love you can also attend virtual meetings about other topics that you're interested in like group therapy
+i went through two other therapist but i finally found the perfect one the other ones are really good though just not for me what issue i do have is that when i'm doing a voice call session if i hit mute and unmute then it keeps going back on mute every five seconds which is pretty annoying i've already reported it hopefully they can fix that bug soon but other than that the app functionality is good","
+Generate minimum of five labels for Non Functional Requirements with very concise descriptions that summarize the following mental health app review.
+Desired format: {label}: {description}
+Review: """"""
+i've been using betterhelp for maybe six months now i have a student discount but even with the student discount it is pricey but i believe it is worth it you can switch your therapist if you don't like them which i do like a lot you can video chat text or phone call your therapist and share journal entries which i love you can also attend virtual meetings about other topics that you're interested in like group therapy
+i went through two other therapist but i finally found the perfect one the other ones are really good though just not for me what issue i do have is that when i'm doing a voice call session if i hit mute and unmute then it keeps going back on mute every five seconds which is pretty annoying i've already reported it hopefully they can fix that bug soon but other than that the app functionality is good
+""""""""","[<OpenAIObject at 0x7fc669c14310> JSON: {
+  ""finish_reason"": ""stop"",
+  ""index"": 0,
+  ""logprobs"": null,
+  ""text"": ""\n\nUsability: Ability to switch therapists and access different communication methods.\nPricing: Expensive, but student discounts available.\nFunctionality: App has good functionality, but bug with voice call sessions.\nGroup Therapy: Ability to attend virtual meetings about other topics.\nJournal Entries: Ability to share journal entries with therapist.""
+}]","['Usability: Ability to switch therapists and access different communication methods.', 'Pricing: Expensive, but student discounts available.', 'Functionality: App has good functionality, but bug with voice call sessions.', 'Group Therapy: Ability to attend virtual meetings about other topics.', 'Journal Entries: Ability to share journal entries with therapist.']"
+"{'prefix': '\nGenerate minimum of five labels for Non Functional Requirements with very concise descriptions that summarize the following mental health app review.\nDesired format: {label}: {description}\n', 'top_p': 0.1, 'temperature': 0.1, 'max_tokens': 150, 'presence_penalty': 0.1, 'frequency_penalty': 0.1}","i went to the website and tried to sign up for a basic membership or trial but the site literally will not let you 
+it skips over basic membership and charges you $65 for a year to try it and then  says it won't refund any of your money and that you have to contact apple support and beg them for a refund and maybe apple will refund and maybe not 
+
+the same two ppl narrate pretty much everything i tried on the app and the woman tamara's voice is extremely annoying 
+i can't meditate to that 
+i tried to get a refund and there's no way to contact anyone so think twice before you spend 65 dollars to try something because you can not get refund 
+i will be calling credit card company tomorrow to do a charge back 
+i used the app for about 30 minutes so i think a month charge would be fair but nope it's $65 .","
+Generate minimum of five labels for Non Functional Requirements with very concise descriptions that summarize the following mental health app review.
+Desired format: {label}: {description}
+Review: """"""
+i went to the website and tried to sign up for a basic membership or trial but the site literally will not let you 
+it skips over basic membership and charges you $65 for a year to try it and then  says it won't refund any of your money and that you have to contact apple support and beg them for a refund and maybe apple will refund and maybe not 
+
+the same two ppl narrate pretty much everything i tried on the app and the woman tamara's voice is extremely annoying 
+i can't meditate to that 
+i tried to get a refund and there's no way to contact anyone so think twice before you spend 65 dollars to try something because you can not get refund 
+i will be calling credit card company tomorrow to do a charge back 
+i used the app for about 30 minutes so i think a month charge would be fair but nope it's $65 .
+""""""""","[<OpenAIObject at 0x7fc669c19680> JSON: {
+  ""finish_reason"": ""stop"",
+  ""index"": 0,
+  ""logprobs"": null,
+  ""text"": ""\n\nUsability: Poor user experience when attempting to sign up for a basic membership or trial.\nRefundability: No refunds available, must contact Apple Support for potential refund.\nNarrators: Same two narrators for all content, with one narrator's voice being particularly annoying.\nCost: $65 for a year, no option for monthly charge.\nCustomer Service: No way to contact customer service for refunds or other inquiries.\nChargeback: Must contact credit card company to do a chargeback.""
+}]","['Usability: Poor user experience when attempting to sign up for a basic membership or trial.', 'Refundability: No refunds available, must contact Apple Support for potential refund.', ""Narrators: Same two narrators for all content, with one narrator's voice being particularly annoying."", 'Cost: $65 for a year, no option for monthly charge.', 'Customer Service: No way to contact customer service for refunds or other inquiries.', 'Chargeback: Must contact credit card company to do a chargeback.']"
+"{'prefix': '\nGenerate minimum of five labels for Non Functional Requirements with very concise descriptions that summarize the following mental health app review.\nDesired format: {label}: {description}\n', 'top_p': 0.1, 'temperature': 0.1, 'max_tokens': 150, 'presence_penalty': 0.1, 'frequency_penalty': 0.1}","even though mediation sounds dumb' for some people, headspace is the very opposite; it gives me mindfulness tips and follow up with a mediation, making the mindfulness lesson more memorable, and what i learned so far (and all of them are so freaking helpful) are: observe thoughts instead of reacting and getting carried away with them, if we're reacting to thoughts we are keeping the emotion alive, adding more fuel to the fire; let's thoughts come and go, with a gentle or effortless focus; having a daydream sense of mind let's us take things less seriously and it gives us more freedom, and sooooo many more (i can't remember all at the moment).","
+Generate minimum of five labels for Non Functional Requirements with very concise descriptions that summarize the following mental health app review.
+Desired format: {label}: {description}
+Review: """"""
+even though mediation sounds dumb' for some people, headspace is the very opposite; it gives me mindfulness tips and follow up with a mediation, making the mindfulness lesson more memorable, and what i learned so far (and all of them are so freaking helpful) are: observe thoughts instead of reacting and getting carried away with them, if we're reacting to thoughts we are keeping the emotion alive, adding more fuel to the fire; let's thoughts come and go, with a gentle or effortless focus; having a daydream sense of mind let's us take things less seriously and it gives us more freedom, and sooooo many more (i can't remember all at the moment).
+""""""""","[<OpenAIObject at 0x7fc669c14a40> JSON: {
+  ""finish_reason"": ""stop"",
+  ""index"": 0,
+  ""logprobs"": null,
+  ""text"": ""\n\nObserve Thoughts: Refrain from reacting to thoughts and instead observe them.\nLet Thoughts Come and Go: Allow thoughts to come and go without getting attached to them.\nGentle Focus: Use a gentle focus to stay mindful.\nDaydream Sense: Take things less seriously and have more freedom.\nMindfulness Tips: Receive helpful tips to stay mindful.""
+}]","['Observe Thoughts: Refrain from reacting to thoughts and instead observe them.', 'Let Thoughts Come and Go: Allow thoughts to come and go without getting attached to them.', 'Gentle Focus: Use a gentle focus to stay mindful.', 'Daydream Sense: Take things less seriously and have more freedom.', 'Mindfulness Tips: Receive helpful tips to stay mindful.']"
+"{'prefix': '\nGenerate minimum of five labels for Non Functional Requirements with very concise descriptions that summarize the following mental health app review.\nDesired format: {label}: {description}\n', 'top_p': 0.1, 'temperature': 0.1, 'max_tokens': 150, 'presence_penalty': 0.1, 'frequency_penalty': 0.1}","as a marketing, public relations and communications agency owner and consultant i have worked with many hundreds of journalists and writers and can say whole heartedly that dan harris is among the best interviewers - he knows the subjects so well he is able to distill scientific and professional jargon into simple language for the novice or beginner student of mindfulness, meditation and other subjects  which have proven evidence based results for helping us heal and evolve our self care toward a more joy filled and less stressful life.","
+Generate minimum of five labels for Non Functional Requirements with very concise descriptions that summarize the following mental health app review.
+Desired format: {label}: {description}
+Review: """"""
+as a marketing, public relations and communications agency owner and consultant i have worked with many hundreds of journalists and writers and can say whole heartedly that dan harris is among the best interviewers - he knows the subjects so well he is able to distill scientific and professional jargon into simple language for the novice or beginner student of mindfulness, meditation and other subjects  which have proven evidence based results for helping us heal and evolve our self care toward a more joy filled and less stressful life.
+""""""""","[<OpenAIObject at 0x7fc669c19180> JSON: {
+  ""finish_reason"": ""stop"",
+  ""index"": 0,
+  ""logprobs"": null,
+  ""text"": ""\n\nUsability: Ability to understand complex topics and explain them in simple language.\nAccessibility: Easy to use for novice or beginner students.\nReliability: Proven evidence-based results for helping with self-care.\nSecurity: Ensuring data is kept safe and secure.\nPerformance: Ability to deliver results quickly and efficiently.""
+}]","['Usability: Ability to understand complex topics and explain them in simple language.', 'Accessibility: Easy to use for novice or beginner students.', 'Reliability: Proven evidence-based results for helping with self-care.', 'Security: Ensuring data is kept safe and secure.', 'Performance: Ability to deliver results quickly and efficiently.']"
+"{'prefix': '\nGenerate minimum of five labels for Non Functional Requirements with very concise descriptions that summarize the following mental health app review.\nDesired format: {label}: {description}\n', 'top_p': 0.1, 'temperature': 0.1, 'max_tokens': 150, 'presence_penalty': 0.1, 'frequency_penalty': 0.1}","the ai uses an excess of emojis and even the responses that are supposed to be able to be written and interpreted use them excessively
+
+the reviews are certainly heavily inflated whether by app stores themselves or purchased reviews, any and all developer responses are scripts that they only tweak to say we assure you we x, likely to try and spread disinformation
+
+they backlessly claim they've had the ai which is in fact a preprogrammed questionnaire tested at esteemed universities, and continuously inflate their own egos by praising themselves within the first minute of talking with the ai
+
+as said by another reviewer, it is extraordinarily childish in behaviour, and talks patronisingly","
+Generate minimum of five labels for Non Functional Requirements with very concise descriptions that summarize the following mental health app review.
+Desired format: {label}: {description}
+Review: """"""
+the ai uses an excess of emojis and even the responses that are supposed to be able to be written and interpreted use them excessively
+
+the reviews are certainly heavily inflated whether by app stores themselves or purchased reviews, any and all developer responses are scripts that they only tweak to say we assure you we x, likely to try and spread disinformation
+
+they backlessly claim they've had the ai which is in fact a preprogrammed questionnaire tested at esteemed universities, and continuously inflate their own egos by praising themselves within the first minute of talking with the ai
+
+as said by another reviewer, it is extraordinarily childish in behaviour, and talks patronisingly
+""""""""","[<OpenAIObject at 0x7fc669c19d60> JSON: {
+  ""finish_reason"": ""stop"",
+  ""index"": 0,
+  ""logprobs"": null,
+  ""text"": ""\n\nEmoji Usage: Excessive use of emojis in AI responses.\nInflated Reviews: Suspected purchased or app store inflated reviews.\nMisleading Claims: False claims of AI testing at esteemed universities.\nChildish Behaviour: AI responses are patronising and childish.\nEgo Inflation: AI responses praise the app developers.""
+}]","['Emoji Usage: Excessive use of emojis in AI responses.', 'Inflated Reviews: Suspected purchased or app store inflated reviews.', 'Misleading Claims: False claims of AI testing at esteemed universities.', 'Childish Behaviour: AI responses are patronising and childish.', 'Ego Inflation: AI responses praise the app developers.']"
+"{'prefix': '\nGenerate minimum of five labels for Non Functional Requirements with very concise descriptions that summarize the following mental health app review.\nDesired format: {label}: {description}\n', 'top_p': 0.1, 'temperature': 0.1, 'max_tokens': 150, 'presence_penalty': 0.1, 'frequency_penalty': 0.1}","even though a decent app there are issues
+no linkage to app store purchase history 
+no notification of impending renewal 
+no non-automated response to inquiries 
+no way to cancel via app store
+says billed via apple pay but transaction doesn't show on apple pay transactions
+subscription defaulted to family plan at 2x the price
+unsubscribe did not issue a refund
+billing terms can't be found
+impossible to get a real support person to help
+disputing via credit card, last resort.","
+Generate minimum of five labels for Non Functional Requirements with very concise descriptions that summarize the following mental health app review.
+Desired format: {label}: {description}
+Review: """"""
+even though a decent app there are issues
+no linkage to app store purchase history 
+no notification of impending renewal 
+no non-automated response to inquiries 
+no way to cancel via app store
+says billed via apple pay but transaction doesn't show on apple pay transactions
+subscription defaulted to family plan at 2x the price
+unsubscribe did not issue a refund
+billing terms can't be found
+impossible to get a real support person to help
+disputing via credit card, last resort.
+""""""""","[<OpenAIObject at 0x7fc669c19770> JSON: {
+  ""finish_reason"": ""stop"",
+  ""index"": 0,
+  ""logprobs"": null,
+  ""text"": ""\n\n1. Payment Transparency: No linkage to app store purchase history, no notification of impending renewal, says billed via apple pay but transaction doesn't show on apple pay transactions.\n2. Cancellation: No way to cancel via app store, unsubscribe did not issue a refund.\n3. Support: No non-automated response to inquiries, impossible to get a real support person to help.\n4. Billing Terms: Billing terms can't be found.\n5. Dispute Resolution: Dispute via credit card, last resort.""
+}]","[""1. Payment Transparency: No linkage to app store purchase history, no notification of impending renewal, says billed via apple pay but transaction doesn't show on apple pay transactions."", '2. Cancellation: No way to cancel via app store, unsubscribe did not issue a refund.', '3. Support: No non-automated response to inquiries, impossible to get a real support person to help.', ""4. Billing Terms: Billing terms can't be found."", '5. Dispute Resolution: Dispute via credit card, last resort.']"
