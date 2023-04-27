@@ -13,7 +13,8 @@ The method feeds prompt input  and top ten summary reviews from extractive summa
 The method uses the most frequently occurring labels as the rate features for the apps.
 
 ### Additional files are added as below
-- [`data/ride.csv, data/health.csv, data/investing.csv`](data/) are the files for the raw reviews for the apps.
+- [`data/raw reviews/*.csv`](data/raw%20reviews) contains csv files for the raw reviews.
+- [0__extract_top_rate_features_sampling](code/extract_top_rate_features_sampling.ipynb) - contains the code for top five rate feature extraction from the sample raw reviews.
 
 ### Full replication requirements
 - Install dependencies using `pip install -r requirements.txt`
