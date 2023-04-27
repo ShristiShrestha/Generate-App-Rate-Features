@@ -12,11 +12,8 @@ The method feeds prompt input  and top ten summary reviews from extractive summa
 - [4__ChatGPT_label_selection](code/ChatGPT_label_selection.ipynb) - contains the code for label selection generated using ChatGPT API. 
 The method uses the most frequently occurring labels as the rate features for the apps.
 
-### Addutional files are added as below
+### Additional files are added as below
 - [`data/ride.csv, data/health.csv, data/investing.csv`](data/) are the files for the raw reviews for the apps.
-- [`data/summary/*.csv`](data/summary) contains the summary reviews obtained from **Hybrid TFIDF extractive summarization**.
-- [`data/gpt labels/chat gpt/*.csv`](data/gpt%20labels/chat%20gpt/) contains the output text generated using **GPT-3.5 Turbo** (ChatGPT) model.
-- [`data/gpt labels/davinci/*.csv`](data/gpt%20labels/davinci/) contains the output text generated using **text-davinci-003** (ChatGPT) model.
 
 ### Full replication requirements
 - Install dependencies using `pip install -r requirements.txt`
