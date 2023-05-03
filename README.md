@@ -3,8 +3,9 @@
 
 This repository contains the replication package for my ASE'23 paper. 
 
-The repository is split into four notebooks.
+The repository is split into five notebooks.
 
+- [0__data_collection](code/data_collection.ipynb) - contains the code for downloading app reviews from App Store using third party library `app_store_scraper`.
 - [1__data_cleaning](code/data_cleaning.ipynb) - contains the code for processing the app reviews and includes methods such as noise removal, tokenization and lemmatization.
 - [2__extractive_summarization](code/extractive_summarization.ipynb) - contains the code for extractive summarization using Hybrid TFIDF.
 - [3__ChatGPT_label_generation](code/ChatGPT_label_generation.ipynb) - contains the code for label generation using ChatGPT API. 
@@ -14,11 +15,12 @@ The method uses the most frequently occurring labels as the rate features for th
 
 ### Additional files are added as below
 - [`data/raw reviews/*.csv`](data/raw%20reviews) contains csv files for the raw reviews.
+- [`data/sample reviews/*.csv`](data/sample%20reviews) contains sample of raw reviews used for the qualitative analysis.
 - [0__extract_top_rate_features_sampling](code/extract_top_rate_features_sampling.ipynb) - contains the code for top five rate feature extraction from the sample raw reviews.
 
 ### Full replication requirements
 - Install dependencies using `pip install -r requirements.txt`
-- The four methods mentioned above are neither time nor space costly. 
+- The methods mentioned above are neither time nor space costly. 
   - Lemmatization process took slightly more time (on average 5 minutes) depending on the review size. Other than that, summarization also takes couple of minutes to complete. 
   - In most cases, the outputs are written to a csv file. 
   - A normal system with 8-16 GB RAM with 1GB works fine.
