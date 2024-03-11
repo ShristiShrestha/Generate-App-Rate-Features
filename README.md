@@ -1,7 +1,7 @@
 # Generating-Rate-Features-For-Mobile-Applications
----
 
-This repository contains the replication package for my ASE'23 paper. 
+
+This repository contains the replication package for my MobileSoft'24 paper. 
 
 The repository is split into five notebooks.
 
