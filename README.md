@@ -1,6 +1,5 @@
 # Generating-Rate-Features-For-Mobile-Applications
 
-
 This repository contains the replication package for my MobileSoft'24 paper. 
 
 The repository is split into five notebooks.
@@ -29,3 +28,6 @@ The method uses the most frequently occurring labels as the rate features for th
     - For selecting the model, see the [available models here](https://platform.openai.com/docs/models)
     - For prompt engineering (finding the best way to ask GPT), see the [articles here](https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-openai-api)
    
+- Checkout our prototype [Rate Feature based rating system here](https://ratefeatureappstore-e2366.web.app/?role_id=e82439bd9d)
+![image](https://github.com/user-attachments/assets/fd370b1d-4fa6-48ad-84b9-eba48f33b5c1)
+![image](https://github.com/user-attachments/assets/0c78471e-9eb1-4fa5-a834-cd4f836418d5)
