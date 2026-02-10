@@ -9,6 +9,9 @@ Mobile app stores currently utilize a "one-size-fits-all" rating mechanism, cons
 ### Proposal
 In this paper, we propose an automated, unsupervised solution to represent a large volume of app reviews as "**Rate Features**." A rate feature is a neutral, domain-specific trait that nudges users to provide better feedback. 
 
+<img width="694" height="663" alt="image" src="https://github.com/user-attachments/assets/567b638d-f1cf-4047-ae9b-d4484f12fb6a" />
+
+
 
 ### Research Gap
 Existing solutions for mining app reviews rely on general-purpose text analysis techniques, such as Latent Dirichlet Allocation (LDA) for topic modeling, or various supervised classification methods. Generally, developers leverage these techniques to extract maintenance-related tasks like bug reports, requests for enhancing existing features or new feature requests. As a result, these outcomes tend to overlook the more nuanced, user-centric quality traits present within the reviews. In particular, the current methods having following gaps:
@@ -18,29 +21,37 @@ Existing solutions for mining app reviews rely on general-purpose text analysis 
 
 
 ### Proposed Architecture
-To generate Rate Features from a set of reviews for an app, we proposed the following two tasks:
+To generate Rate Features from a set of reviews for an app, we implement the following two steps:
 1. **Extractive Summarization**: We used a Hybrid TF-IDF algorithm combined with GloVe word embeddings to extract salient, representative sentences from thousands of reviews while filtering out noise. We found some **users even submit their feedback in the form of poems within app reviews**!
 2. **LLM Abstraction**: Then, we employed the GPT-3.5 model (specifically gpt-3.5-turbo) to abstract the extractive summaries into "User Goals." Through prompt engineering, we demonstrated that prompting for "neutral user goals" outperformed prompts for adjectives or generic NFRs.
 
 
 ### Empirical Evaluation & Key Findings
-- **Dataset**: Analyzed 90 popular apps across three domains: Ride-hailing, Mental Health, and Investing (totaling over 167,000 reviews).
-- **Performance**: The proposed algorithm achieved nearly 100% recall for the top 3 Rate Features in all domains compared to manual annotation.
+- **Dataset**: Analyzed 90 popular apps across three domains: Ride-hailing, Mental Health, and Investing (totaling 167k reviews).
+- **Performance**: The proposed algorithm achieved 95%-100% recall for the top 3 Rate Features in all domains compared to manual annotation.
 - **Comparison**: The LLM-based approach successfully identified domain-specific nuances (e.g., "Patient Drivers" for ride-hailing) that baseline topic modeling (LDA) failed to capture.
 
 
 ### Technical Limitations
 - **External Validity**: The analysis was limited to three specific application domains, which may impact generalizability to other app categories.
-- **Dependency**: The quality of the output depends on the specific hyperparameters and version of the LLM used (GPT-3.5).
+- **Dependency**: The quality of the output depends on the specific hyperparameters and version of the LLM used (GPT-3.5) and on various prompt engineering techniques.
 
 
 ### Future Research Directions
-- **Human Evaluation**: Conducting Randomized Controlled Trials (RCTs) to measure if displaying these Rate Features positively influences users in their app reviewing behavior. The goal is to test the "Nudge Theory" interface in a live app store environment to see if it impacts app-install decisions.
+- **Human Evaluation**: Conduct Randomized Controlled Trials (RCTs) to investigate if displaying Rate Features positively influences users in their app reviewing behavior. The goal is to test whether the "Nudge Theory" interface impacts app users’ behaviors in a live app store environment. 
 
 
 ### Tools, Techs, and Methods 
-- **LLM & Prompt Engineering**: OpenAI API (GPT-3.5), Zero-shot learning, and hyperparameter tuning (temperature, max_tokens).
+
+- **LLM & Prompt Engineering**: Zero-shot prompting, Prompt engineering, LLM-based text summarization. 
 - **NLP & Machine Learning**: NLTK for text preprocessing, Gensim for LDA topic modeling, GloVe embeddings for semantic similarity.
-- **Data Analysis**: Qualitative thematic analysis for ground-truth generation.
-Python Libraries: Pandas, NumPy, Scikit-learn.
+- **Data Analysis**: Qualitative thematic analysis, recall analysis.
+- **Python Libraries**: Pandas, NumPy, Scikit-learn.
+
+
+
+
+
+
+
 
