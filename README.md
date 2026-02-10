@@ -1,6 +1,6 @@
 # Generating-Rate-Features-For-Mobile-Applications
 
-[PDF Link](https://dl.acm.org/doi/pdf/10.1145/3647632.3647986)
+[PDF Link](https://dl.acm.org/doi/pdf/10.1145/3647632.3647986) | [Dataset & Test Prototype](https://dl.acm.org/doi/pdf/10.1145/3647632.3647986)
 
 ### Premise
 Mobile app stores currently utilize a "one-size-fits-all" rating mechanism, consisting of five-star scales and free-text reviews. This approach fails to capture the specific operational characteristics of different application domains. For example, a user looking for a mental health app cares about "treatment effectiveness" and “finding with mental health experts.” A ride-hailing user cares about "wait times" and “safe drivers.” However, current app rating frameworks often require users to navigate brief, subjective, or one-dimensional app reviews when attempting to make informed choices, such as install an app or recommend an app to close friends. 
